@@ -16,3 +16,5 @@ author_profile : true
 ## Introducing Myself
 
 Hi there! My name is Faizal and I'm a Software Engineer. Over the years, I have worked with various companies ranging from startups to big enterprises. I have a Bachelor of Computing in Computer Science from NUS (National University of Singapore). I am skilled in Java, Golang, DevOps and Frontend Development.
+
+Change 14:51 First
