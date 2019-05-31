@@ -8,7 +8,7 @@ header:
   #overlay_filter: "0.3"
   overlay_image: /assets/images/code_monitor_medium.jpg
   actions:
-    - label: "Download"
+    - label: "Coming Soon"
       url: ""
 author_profile : true
 ---  
