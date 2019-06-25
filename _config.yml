@@ -50,12 +50,6 @@ author:
   bio: "Software Engineer"
   location: "Singapore"
   links:
-    - label: "Personal Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://faizalism.com"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium"
-      url: "https://medium.com/@faizalism"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/faizalism"
